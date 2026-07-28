@@ -1,11 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// Time Complexity:
-// Insert at beginning: O(1)
-// Delete: O(n)
-// Search: O(n)
-
 class Node {
 public:
     int data;
